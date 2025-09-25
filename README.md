@@ -24,7 +24,7 @@ Kullanıcıdan **kilo (kg)** ve **boy (cm)** bilgilerini alır, ardından BMI de
 
 ## 📷 Ekran Görüntüsü
 
-![BMI Calculator Screenshot](https://via.placeholder.com/400x250?text=BMI+Calculator+App)
+![BMI Calculator Screenshot](screenshot.png)
 
 ---
 
@@ -34,4 +34,8 @@ Projeyi bilgisayarına klonla:
 
 ```bash
 git clone https://github.com/bedirhanyanik/BMI_Calculator.git
+<<<<<<< HEAD
 cd BMI_Calculator
+=======
+cd BMI_Calculator
+>>>>>>> e7bf69a (markdown added)
